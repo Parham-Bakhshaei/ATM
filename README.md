@@ -1,7 +1,3 @@
-Here's a `README.md` file in English for your ATM project built with PyQt6:
-
----
-
 # ATM Simulator with PyQt6
 
 This is a simple desktop ATM simulation application developed using Python and PyQt6. It features a graphical user interface (GUI) that supports both Persian (Farsi) and English languages, allowing users to perform basic banking operations such as checking their balance, transferring funds, withdrawing money, and changing their PIN.
